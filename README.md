@@ -9,4 +9,5 @@ Here are some of the well known testing tools presently available in the market.
 
 | Application | Name    | Description    |
 | :-----: | :---: | :---: |
-| ![image](https://github.com/erangasandaruwan/LoadTesting/assets/25504137/0d751a3f-02b1-4406-ac46-7a7e7435139b) | Apache JMeter™ | The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. |
+| ![image](https://github.com/erangasandaruwan/LoadTesting/assets/25504137/0d751a3f-02b1-4406-ac46-7a7e7435139b) | Apache JMeter™ | Free & Opensource - The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. |
+|![image](https://github.com/erangasandaruwan/LoadTesting/assets/25504137/a1bed064-296b-4827-a4e2-cdbec0995f1e) | Sumo Logic NeoLoad | Commercial - NeoLoad is an automated performance testing platform for enterprise organizations continuously testing from APIs to applications. |
