@@ -1,4 +1,4 @@
-![image](https://github.com/erangasandaruwan/LoadTesting/assets/25504137/3ef7b77f-a583-455e-8b53-6153ab5852cd)# Load Testing
+# Load Testing
 
 In an Agile or fundamental testing environment where testing and development happen concurrently, once any application is nearly complete, there’s really only one way to know whether or not the software can handle the actual demands the end users will soon be making. Load testing is the process of putting simulated demand on system tests and demonstrates it's behavior under various conditions. It is possible to use a load testing tool for this, either a commercial version or else a free version.
 
@@ -15,3 +15,6 @@ Here are some of the well known testing tools presently available in the market.
 | ![image](https://github.com/erangasandaruwan/LoadTesting/assets/25504137/f1f736ea-faee-4d87-8f1a-362f7bef6767) | Gatling | Commercial - Gatling is an open-source load testing tool based on Scala, Akka, and Netty |
 | ![image](https://github.com/erangasandaruwan/LoadTesting/assets/25504137/9481fedb-110e-418a-8211-bebbd59e9a97) | BlazeMeter Continuous Testing | Commercial - AI driven continuous testing platform |
 | ![image](https://github.com/erangasandaruwan/LoadTesting/assets/25504137/ab3c4d05-611c-4258-9fa9-fd97b57c8bf1) | LoadRunner | Commercial - LoadRunner is a software testing tool from OpenText. It is used to test applications, measuring system behavior and performance under load. |
+| ![image](https://github.com/erangasandaruwan/LoadTesting/assets/25504137/12367fc7-946b-46a1-821f-b83e9ae58e1e) | Grafana k6 | Grafana k6 is an open-source load testing tool that makes performance testing easy and productive for engineering teams |
+
+## Start with Apache JMeter
