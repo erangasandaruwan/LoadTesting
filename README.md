@@ -1,4 +1,4 @@
-# Load Testing
+# Load Testing with JMeter and k6
 
 In an Agile or fundamental testing environment where testing and development happen concurrently, once any application is nearly complete, there’s really only one way to know whether or not the software can handle the actual demands the end users will soon be making. Load testing is the process of putting simulated demand on system tests and demonstrates it's behavior under various conditions. It is possible to use a load testing tool for this, either a commercial version or else a free version.
 
